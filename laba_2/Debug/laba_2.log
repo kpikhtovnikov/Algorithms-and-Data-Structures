@@ -1,0 +1,5 @@
+  Source.cpp
+C:\Users\Кирилл\Desktop\алгосы\laba_2\Source.cpp(276,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Кирилл\Desktop\алгосы\laba_2\Source.cpp(281,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Кирилл\Desktop\алгосы\laba_2\Source.cpp(286,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  laba_2.vcxproj -> C:\Users\Кирилл\Desktop\алгосы\laba_2\Debug\laba_2.exe
